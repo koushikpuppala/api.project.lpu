@@ -14,6 +14,7 @@ export const config: Config = {
 		'http://localhost:3000',
 		'https://project-lpu.vercel.app',
 		'https://project-lpu-oq2ys.ondigitalocean.app',
+		'https://bookmycut.xyz',
 	],
 	mongodb: {
 		uri: `mongodb+srv://${process.env.MONGO_USER}:${process.env.MONGO_PASS}@project-lpu.lwzwpqy.mongodb.net/${process.env.MONGO_DATA}?retryWrites=true&w=majority`,
