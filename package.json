@@ -21,7 +21,7 @@
 		"firebase": "^9.18.0",
 		"jsonwebtoken": "^9.0.0",
 		"moment": "^2.29.4",
-		"mongoose": "^7.0.3",
+		"mongoose": "^7.3.3",
 		"razorpay": "^2.8.6",
 		"twilio": "^4.10.0"
 	},
